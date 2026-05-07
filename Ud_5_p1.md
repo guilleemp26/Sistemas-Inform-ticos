@@ -5,7 +5,8 @@
 </div>
 <div align = right>
 
-![alt text](img/portada.jpg)
+<img src="img/Ud_5p1_img/portada.jpg">
+
 **Guillem Porta Ortuño**
 
 **15/05/26**
@@ -44,4 +45,3 @@ por el router ya que pertenece a la misma red.
 ---
 
 ### 3. Configuración del nombre de host
-
